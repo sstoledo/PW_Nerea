@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nerea</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="syles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
@@ -26,35 +27,106 @@
         </nav>
     </header>
     <main class="main">
-        <section class="types-container">
-            <div class="types">
-                <div class="types-personal">
-                    <input type="checkbox" name="velasParafina" id="velasParafinaCheckbox">
-                    <label for="velasParafinaCheckbox">Velas de Parafina</label>
-                </div>
-                <div class="types-personal">
-                    <input type="checkbox" name="velasCeraSoja" id="velasCeraSojaCheckbox">
-                    <label for="velasCeraSojaCheckbox">Velas de Cera de Soja</label>
-                </div>
-                <div class="types-personal">
-                    <input type="checkbox" name="velasMasajes" id="velasMasajesCheckbox">
-                    <label for="velasMasajesCheckbox">Velas para Masajes</label>
-                </div>
-                <div class="types-personal">
-                    <input type="checkbox" name="decoNavidad" id="decoNavidadCheckbox">
-                    <label for="decoNavidadCheckbox">Decoraciones Navidad</label>
-                </div>
-                <div class="types-personal">
-                    <input type="checkbox" name="produPedido" id="produPedidoCheckbox">
-                    <label for="produPedidoCheckbox">Productos a pedido</label>
-                </div>
-                <div class="types-personal">
-                    <input type="checkbox" name="recuEventos" id="recuEventosCheckbox">
-                    <label for="recuEventosCheckbox">Recuerdos para eventos</label>
-                </div>
-            </div>
-        </section>
-        <section class="carousel-container">
+
+        <swiper-container autoplay-delay="2000" class="swiper-container-types" scrollbar-hide="false">
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-types">
+                <button type="button" id="zzz">Velas de Cera De Soja</button>
+            </swiper-slide>
+        </swiper-container>
+
+        <swiper-container autoplay-delay="3000" class="swiper-container-products" pagination="true"
+            pagination-clickable="true" navigation="true" space-between="30" loop="true">
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/Canister.png" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/Cuadrada.png" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/Escultura_Hombre.png" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/Cuadrada.png" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/Ninio.png" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/Tulipan.png" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/Vaso_Redondo.png" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+            <swiper-slide class="swiper-slide-products">
+                <div class="img"><img src="img/" alt=""></div>
+                <h2 class="tittle-products">Velas</h2>
+                <p class="subtittle-products">Velas Parafina</p>
+                <p class="overview">Rel. Floral</p>
+                <span class="price">Precio S/18</span>
+            </swiper-slide>
+        </swiper-container>
+
+
+        <!-- <section class="carousel-container">
             <div class="wrapper">
                 <i id="left" class="fa-solid fa-angle-left"></i>
                 <ul class="carousel">
@@ -121,11 +193,12 @@
                 </ul>
                 <i id="right" class="fa-solid fa-angle-right"></i>
             </div>
-        </section>
+        </section> -->
     </main>
     <footer class="footer">
         &copy Derechos Reservados Nerea
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 </body>
 
 </html>
