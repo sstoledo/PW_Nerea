@@ -1,0 +1,74 @@
+[
+    {
+        "titulo": "Vela Canister",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Canister.jpg",
+        "precio": 18,
+        "descripcion": "Rel. Floral",
+        "peso-gramos": 85
+    },
+    {
+        "titulo": "Vela Tulipan",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Tulipan.png",
+        "precio": 12,
+        "descripcion": "Rel. Floral",
+        "peso-gramos": 129
+    },
+    {
+        "titulo": "Vela Busto Hombre",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Busto_Hombre.jpg",
+        "precio": 15,
+        "descripcion": "Amor",
+        "peso-gramos": 58
+    },
+    {
+        "titulo": "Vela Cuadrada Grande",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Cuadrada_grande.jpg",
+        "precio": 51,
+        "descripcion": "Cappuccino",
+        "peso-gramos": 202
+    },
+    {
+        "titulo": "Vela Sirena",
+        "subtitulo": "Soja",
+        "imagen": "img/Masajes/Vela_Sirena.jpg",
+        "precio": 30,
+        "descripcion": "Eucalipto",
+        "peso-gramos": 80
+    },
+    {
+        "titulo": "Vela Jarra",
+        "subtitulo": "Soja",
+        "imagen": "img/Masajes/Vela_jarra.jpg",
+        "precio": 35,
+        "descripcion": "Ylang Ylang",
+        "peso-gramos": 118
+    },
+    {
+        "titulo": "Manteca Corporal",
+        "subtitulo": "Personalizado",
+        "imagen": "img/Pedidos/Manteca_Corporal.jpg",
+        "precio": 45,
+        "descripcion": "Eucalipto / Ylang Ylang y mas",
+        "peso-gramos": 50
+    },
+    {
+        "titulo": "Jabon Letra",
+        "subtitulo": "Glicerina Vegetal",
+        "imagen": "img/Recuerdos/Jabon_letra.jpg",
+        "precio": 2.4,
+        "descripcion": "A elección",
+        "peso-gramos": 15
+    },
+    {
+        "titulo": "Vela Decorativa Reno",
+        "subtitulo": "Parafina",
+        "imagen": "img/Navidad/Deco_Reno.jpg",
+        "precio": 20,
+        "descripcion": "Dulce variado",
+        "peso-gramos": 123
+    }
+]

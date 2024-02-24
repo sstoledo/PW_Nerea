@@ -1,0 +1,210 @@
+[
+    {
+        "titulo": "Vela Canister",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Canister.jpg",
+        "precio": 18,
+        "descripcion": "Rel. Floral",
+        "peso-gramos": 85
+    },
+    {
+        "titulo": "Vela Cuadrada",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Vaso_Cuadrado.jpg",
+        "precio": 13.5,
+        "descripcion": "Rosas",
+        "peso-gramos": 85
+    },
+    {
+        "titulo": "Vela Vaso Redondo",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Vaso_Redondo.jpg",
+        "precio": 8,
+        "descripcion": "Rel. Floral",
+        "peso-gramos": 50
+    },
+    {
+        "titulo": "Vela Tulipan",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Tulipan.png",
+        "precio": 12,
+        "descripcion": "Rel. Floral",
+        "peso-gramos": 129
+    },
+    {
+        "titulo": "Vela Escultura Hombre",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Escul_Hombre.jpg",
+        "precio": 6,
+        "descripcion": "Rel. Floral",
+        "peso-gramos": 54
+    },
+    {
+        "titulo": "Vela Niñ@",
+        "subtitulo": "Parafina",
+        "imagen": "img/Parafina/Vela_niño.jpg",
+        "precio": 3,
+        "descripcion": "Rel. Floral",
+        "peso-gramos": 26
+    },
+    {
+        "titulo": "Vela Tulipan",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Tulipan.jpg",
+        "precio": 29,
+        "descripcion": "Amor",
+        "peso-gramos": 121
+    },
+    {
+        "titulo": "Vela Busto Hombre",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Busto_Hombre.jpg",
+        "precio": 15,
+        "descripcion": "Amor",
+        "peso-gramos": 58
+    },
+    {
+        "titulo": "Vela Vaso Redondo",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Vaso_Redondo.png",
+        "precio": 14,
+        "descripcion": "Madera/Rosas Secas",
+        "peso-gramos": 46
+    },
+    {
+        "titulo": "Vela Cuadrada Grande",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Cuadrada_grande.jpg",
+        "precio": 51,
+        "descripcion": "Cappuccino",
+        "peso-gramos": 202
+    },
+    {
+        "titulo": "Vela Cuadrada",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Vela_cuadrada.jpg",
+        "precio": 21,
+        "descripcion": "Madera/Cappuccino",
+        "peso-gramos": 75
+    },
+    {
+        "titulo": "Vela Canister",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Canister.jpg",
+        "precio": 29,
+        "descripcion": "Frambuesas",
+        "peso-gramos": 113
+    },
+    {
+        "titulo": "Vela Postre Tasa",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Postre_tasa.jpg",
+        "precio": 28,
+        "descripcion": "Cafe/otros",
+        "peso-gramos": 145
+    },
+    {
+        "titulo": "Vela Postre Vaso",
+        "subtitulo": "Soja",
+        "imagen": "img/Soja/Postre_vaso.jpg",
+        "precio": 20,
+        "descripcion": "Cafe/otros",
+        "peso-gramos": 90
+    },
+    {
+        "titulo": "Vela Sirena",
+        "subtitulo": "Soja",
+        "imagen": "img/Masajes/Vela_Sirena.jpg",
+        "precio": 30,
+        "descripcion": "Eucalipto",
+        "peso-gramos": 80
+    },
+    {
+        "titulo": "Vela Medusa",
+        "subtitulo": "Soja",
+        "imagen": "img/Masajes/Vela_Medusa.png",
+        "precio": 30,
+        "descripcion": "Eucalipto",
+        "peso-gramos": 80
+    },
+    {
+        "titulo": "Vela Jarra",
+        "subtitulo": "Soja",
+        "imagen": "img/Masajes/Vela_jarra.jpg",
+        "precio": 35,
+        "descripcion": "Ylang Ylang",
+        "peso-gramos": 118
+    },
+    {
+        "titulo": "Manteca Corporal",
+        "subtitulo": "Personalizado",
+        "imagen": "img/Pedidos/Manteca_Corporal.jpg",
+        "precio": 45,
+        "descripcion": "Eucalipto / Ylang Ylang y mas",
+        "peso-gramos": 50
+    },
+    {
+        "titulo": "Bombas Efervescentes",
+        "subtitulo": "---",
+        "imagen": "img/Pedidos/Bombas_efervescentes.jpg",
+        "precio": 4,
+        "descripcion": "---",
+        "peso-gramos": 8.75
+    },
+    {
+        "titulo": "Jabones Corporales",
+        "subtitulo": "Glicerina Vegetal",
+        "imagen": "img/Pedidos/Jabones_corporales.jpg",
+        "precio": 20,
+        "descripcion": "Avena/otros",
+        "peso-gramos": 20
+    },
+    {
+        "titulo": "Vela Niñ@",
+        "subtitulo": "Soja",
+        "imagen": "img/Recuerdos/Vela_Niño.jpg",
+        "precio": 4,
+        "descripcion": "A elección",
+        "peso-gramos": 24
+    },
+    {
+        "titulo": "Vela Tradicional",
+        "subtitulo": "Parafina",
+        "imagen": "img/Recuerdos/Vela_tradicional.jpg",
+        "precio": 3,
+        "descripcion": "Sin esencia",
+        "peso-gramos": 30
+    },
+    {
+        "titulo": "Jabon Letra",
+        "subtitulo": "Glicerina Vegetal",
+        "imagen": "img/Recuerdos/Jabon_letra.jpg",
+        "precio": 2.4,
+        "descripcion": "A elección",
+        "peso-gramos": 15
+    },
+    {
+        "titulo": "Vela Decorativa Reno",
+        "subtitulo": "Parafina",
+        "imagen": "img/Navidad/Deco_Reno.jpg",
+        "precio": 20,
+        "descripcion": "Dulce variado",
+        "peso-gramos": 123
+    }
+    {
+        "titulo": "Vela Decorativa Arbol",
+        "subtitulo": "Soja",
+        "imagen": "img/Navidad/Deco_Arbol.jpg",
+        "precio": 20,
+        "descripcion": "Dulce variado",
+        "peso-gramos": 60
+    },
+    {
+        "titulo": "Vela Decorativa Jengibre",
+        "subtitulo": "Soja",
+        "imagen": "img/Navidad/Deco_Jengibre.jpg",
+        "precio": 19,
+        "descripcion": "Dulce variado",
+        "peso-gramos": 60
+    },
+]
